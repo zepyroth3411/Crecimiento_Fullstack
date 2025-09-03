@@ -13,3 +13,4 @@ var nombreProducto = "Monitor 32 Pulgadas" // Camel Case, Es el uso mas comun en
 var nombre_producto = "Monitor 32 Pulgadas" // Underscore o Snake Case, usado mas en Python
 var NombreProducto = "Monitor 32 Pulgadas" // Pascal Case Solo para clases 
 var nombreproducto = "Monitor 32 Pulgadas" // Lower Case 
+
