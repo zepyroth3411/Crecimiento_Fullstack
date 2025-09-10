@@ -1,13 +1,21 @@
-let edad = 20
+// let edad = 20
 
-let puedeBeber 
+// let puedeBeber 
 
-puedeBeber=   edad >= 18? true : false
+// puedeBeber=   edad >= 18? true : false
 
-console.log(`¿Puede beber? ${puedeBeber}`)
-let hora = 22
-let saludar
+// console.log(`¿Puede beber? ${puedeBeber}`)
+// let hora = 22
+// let saludar
 
-saludar = hora < 12 ? 'Buenos días' : hora < 18 ? 'Buenas tardes' : 'Buenas noches'
+// saludar = hora < 12 ? 'Buenos días' : hora < 18 ? 'Buenas tardes' : 'Buenas noches'
 
-console.log(saludar)
+// console.log(saludar)
+
+
+
+let numero
+
+console.log(numero)
+
+
